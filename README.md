@@ -1,127 +1,136 @@
 <!-- 
-  GitHub Profile README – Sidharth Kardam (QA Testing Focus)
-  Customized exactly from your Profile.pdf – clean, professional, recruiter-friendly 2026 style
-  Replace YOUR_GITHUB_USERNAME with your actual GitHub username (required for snake + stats)
+  FUTURISTIC 2026+ EDITION – Sidharth Kardam | Cyber QA Protocol v2.0
+  Neon-cyberpunk aesthetic • Holographic layout • Recruiter magnet for QA/AI roles
+  Replace EVERY "YOUR_GITHUB_USERNAME" with your real GitHub username
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=260&section=header&text=Sidharth%20Kardam&fontSize=58&fontAlignY=42&animation=twinkling&fontColor=ffffff&desc=QA%20Testing%20%E2%80%A2%20Manual%20Testing%20%E2%80%A2%20Bug%20Reporting%20%E2%80%A2%20BCA%20Student%20(2023-2026)&descAlign=50&descAlignY=78" />
+  <!-- Neon holographic header -->
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColor1=00FFEA&customColor2=FF00FF&height=320&section=header&text=SIDHARTH%20KARDAM&fontSize=72&fontColor=000000&animation=twinkling&desc=NEURAL%20QA%20TESTER%20%E2%80%A2%20MANUAL%20BUG%20HUNTER%202.0%20%E2%80%A2%20BCA%202023-2026&descAlign=55&descAlignY=88" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1400&color=00C4B4&center=true&vCenter=true&width=720&lines=Hey!+I'm+Sidharth;Passionate+QA+Tester+%26+Bug+Hunter;Manual+Testing+%7C+Web+%26+Mobile+Apps;Open+to+QA+Internships+%26+Opportunities+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=34&pause=800&color=00FFEA&center=true&vCenter=true&width=780&lines=SYSTEM%20ONLINE...;Sidharth%20Kardam%20-%20QA%20Protocol%20Activated;Hunting%20Bugs%20in%20the%20Matrix;Manual%20Testing%20%E2%9A%A1%20Web%20%26%20Mobile%20Apps;Ready%20for%20AI-Driven%20QA%20Missions%20%F0%9F%9B%A0" alt="Neon Typing Animation" />
 </div>
 
 <br/>
 
+<!-- Neon status grid -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20QA%20Internships-success?style=flat-square&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Quality%20Assurance-00C4B4?style=flat-square&logo=bugcrowd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-DEPLOYED%20IN%20DELHI-00FFEA?style=for-the-badge&logo=vercel&logoColor=000&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/CORE%20MISSION-QA%20EXCELLENCE-FF00FF?style=for-the-badge&logo=bugcrowd&logoColor=000&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/NEURAL%20LINK-OPEN%20FOR%20INTERNSHIPS-00FF9F?style=for-the-badge&logo=handshake&logoColor=000&labelColor=0A0A0A" />
 </div>
 
 <br/>
 
-<!-- Contribution snake animation -->
+<!-- Cyber snake animation (looks insane in dark mode) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" width="100%" />
+  <img alt="Neural contribution grid snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
-## 🌟 About Me
+## ⚡ NEURAL CORE PROFILE
 
-I am a BCA student (2023–2026) at DPG Degree College with a growing passion for **Software Quality Assurance** and **Web Testing**.  
+I am a BCA (2023–2026) neural node at DPG Degree College, running on **Software Quality Assurance** protocols.  
+Hands-on experience in manual testing, bug reporting, and frontend validation through live internship deployments.
 
-I have hands-on experience in manual testing, bug reporting, frontend testing, and collaborating with development teams through multiple internships.  
+Currently optimizing test-case algorithms and preparing for automation + AI-enhanced QA systems.  
+**Mission objective**: Join elite QA squads to eliminate defects before they reach production.
 
-Currently focused on strengthening my skills in test case design, testing methodologies, and automation tools to build a strong career in Quality Assurance.  
-
-**Open to QA Testing, Software Testing, and Internship opportunities** where I can contribute to product quality while learning from experienced teams.
+🧬 **Open for QA Testing | Manual Testing | Automation | Internship opportunities** in 2026–2027
 
 <br/>
 
-## 🛠️ Top Skills
+## 🛠️ CORE PROTOCOLS (Skills)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux,figma&theme=light" />
 </div>
 
-**Vibe Coding • Node.js • Manual Testing • Web Testing • Bug Reporting • Test Case Design**
+**Vibe Coding • Node.js • Manual Testing • Web & Mobile Testing • Bug Reporting • Test Case Design • UI/UX Validation**
 
 <br/>
 
-## 💼 Experience Highlights
+## 📡 MISSION LOGS (Experience)
 
-**LoQal AI Ventures** – Quality Assurance Intern  
-*March 2025 – July 2025 (5 months)*  
-• Manual testing of web & mobile applications  
-• Designed & executed test cases and scenarios  
-• Reported detailed bugs with steps, screenshots & severity  
-• Collaborated with developers to verify fixes  
+**LoQal AI Ventures** — Quality Assurance Intern  
+*March 2025 – July 2025 (5 months) | Dwarka Mor, Delhi*  
+- Executed manual testing on web & mobile neural interfaces  
+- Designed & deployed test scenarios from product requirements  
+- Generated detailed bug reports with screenshots + severity levels  
+- Collaborated with dev squads to verify fixes in real-time  
 
-**Mind Aviator Group** – QA Testing Intern  
-*March 2025 – July 2025 (5 months)*  
-• Same core responsibilities as above (web/mobile testing, bug reporting, workflow improvement)
+**Mind Aviator Group** — QA Testing Intern  
+*March 2025 – July 2025 (5 months) | Dwarka Mor*  
+- Identical high-intensity testing protocols as above  
 
-**SingleInterface** – Frontend + Testing Intern  
-*June 2024 – August 2024 (3 months)*  
-• UI responsiveness & functionality testing  
-• Identified layout, cross-browser & compatibility issues  
-• Worked directly with dev team on debugging & validation
+**SingleInterface** — Frontend + Testing Intern  
+*June 2024 – August 2024 (3 months) | Gurugram, Haryana*  
+- Validated UI responsiveness across browsers & devices  
+- Detected layout glitches, broken elements & compatibility anomalies  
+- Direct sync with development team for instant patch validation  
 
 <br/>
 
-## 🎓 Education
+## 🧬 BASE TRAINING (Education)
 
 **DPG Degree College**  
-BCA in Computer Science  
+BCA • Computer Science  
 *September 2023 – 2026*
 
 <br/>
 
-## 🏆 Certifications
+## 🏆 UNLOCKED ACHIEVEMENTS (Certifications)
 
 - Internshala Student Partner – ISP 44  
 - First Trainings Contest Webinar  
 - AI Tools Workshop  
-- Digital Marketing Micro-Internship
+- Digital Marketing Micro-Internship  
 
 <br/>
 
-## 📊 GitHub Activity
+## 📊 QUANTUM ACTIVITY GRID
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&ring_color=00FFEA" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=16&ring_color=FF00FF" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&bg_color=0A0A0A" />
 </div>
 
 <br/>
 
-## 🌐 Let's Connect
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=15&column=7&row=2" alt="Trophies" />
+</div>
+
+<br/>
+
+## 📡 TRANSMIT SIGNAL (Connect)
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](melodic-llama-cdf5e6.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-6295222b9)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sid240711@gmail.com)
-[![Mobile](https://img.shields.io/badge/Mobile-9870220973-00C4B4?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919870220973)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=00FFEA)](https://sidharth-s-personal-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FFEA)](https://www.linkedin.com/in/sidharth-6295222b9)
+[![Email](https://img.shields.io/badge/EMAIL-sid240711@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=00FFEA)](mailto:sid240711@gmail.com)
+[![Mobile](https://img.shields.io/badge/MOBILE-9870220973-00FF9F?style=for-the-badge&logo=whatsapp&logoColor=000)](https://wa.me/919870220973)
 
 </div>
 
 <br/>
 
 ```text
-"Quality is never an accident; it is always the result of intelligent effort." 
+"IN THE FUTURE, QUALITY IS NOT AN OPTION — IT IS THE ONLY CONSTANT."
 
-– Open to QA roles | Always ready to hunt bugs & ship better products 🐛✨
+— Sidharth Kardam | Bug Hunter 2.0 🌀⚡
+Always ready to deploy into your QA squad.
