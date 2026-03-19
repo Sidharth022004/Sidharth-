@@ -1,80 +1,104 @@
 <!-- 
-  ╔════════════════════════════════════════════════════════════════════════════╗
-  ║                  Hi there 👋  I'm [YourName / CoolNickname]               ║
-  ╚════════════════════════════════════════════════════════════════════════════╝
+  Profile README for 2026 – clean, dynamic, professional yet fun
+  Replace YOUR_USERNAME everywhere + customize content
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4200&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+[Your+Name];Full-stack+Developer+%7C+AI+Enthusiast;Building+things+that+scale+to+the+moon+%F0%9F%8C%99" alt="Typing SVG" />
+  <!-- Optional capsule header – very popular in 2025–2026 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I'm%20YOUR_NAME&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Badges with shields.io -->
-  <img src="https://img.shields.io/badge/Status-Coding%20%E2%9A%A1-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-AI+%26+Web3-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=101010" alt="Focus" />
-  <img src="https://img.shields.io/badge/Time%20zone-UTC%20%2B%202%20%E2%8C%9A-yellow?style=for-the-badge&labelColor=101010" alt="Timezone" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+YOUR_NAME;Full-Stack+%2F+AI+%2F+Web3+Developer;Crafting+scalable+experiences+%F0%9F%9A%80;Open+to+collabs+%26+ideas+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Animated snake - very popular in 2024–2026 -->
+<!-- Quick status badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Currently-Focused%20on%20AI%20Agents-blueviolet?style=flat-square&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20opportunities-success?style=flat-square&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Timezone-UTC%20%2B%202-orange?style=flat-square" />
+</div>
+
+<br/>
+
+<!-- Snake animation – super popular -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
 </picture>
 
 <br/><br/>
 
-## 🛠️ Tech Stack I enjoy working with
+## 🚀 About Me in 3 lines
+
+- 🔭 Currently building **agentic AI workflows** & **real-time collaborative tools**
+- 🌱 Deep diving into **Rust + WASM**, **LLM optimization**, **edge computing**
+- ⚡ Fun fact: I once turned coffee into 3k lines of code before sunrise ☕→💻
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,python,fastapi,django,tailwind,postgres,mongodb,redis,docker,kubernetes,aws,gcp,linux,vscode,git,github,figma" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=rust,go,zig,elixir,graphql,prisma,supabase,firebase,vercel,nginx,jenkins,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,remix,nodejs,nestjs,python,fastapi,rust,go,tailwind,postgres,mongodb,redis,kafka,docker,kubernetes,aws,gcp,vercel,linux,neovim,vscode,git,github,figma" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=prisma,supabase,firebase,graphql,zig,elixir,htmx,threejs,webgpu,webassembly" />
 </div>
 
 <br/>
 
-## 🔥 Currently working on / interested in
+## 📊 GitHub Stats (2026 vibe)
 
-- 🔭 LLM fine-tuning & inference optimization  
-- 🌱 Agentic workflows & autonomous AI systems  
-- ⚡ Real-time collaborative apps (CRDTs, WebRTC, Edge computing)  
-- 🧪 Rust + WASM full-stack experiments  
-- 🛠️ Building dev tools that I'd want to use myself
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</div>
 
 <br/>
 
-## 📊 Weekly Development Breakdown (2025–2026 edition)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="trophies" />
+</div>
+
+<br/>
+
+## 🎧 Currently Vibing To (Spotify)
+
+<!-- Optional: add one of these services -->
+<!-- https://github.com/novatorem/novatorem     OR    https://github.com/kittinan/spotify-github-profile -->
+<!-- Example using novatorem style (replace YOUR_SPOTIFY_USERNAME) -->
 
 <!-- 
-  You need to:
-  1. Go to https://github.com/Platane/snk
-  2. or https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
-  3. or https://waka-readme-stats.vercel.app
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=5&unique=true" alt="Spotify recently played" />
 -->
-
-<!-- You can replace this section with actual stats later -->
 
 <br/>
 
-## 🌐 Let's connect
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-domain.com)
-[![twitter](https://img.shields.io/badge/@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/yourname.bsky.social)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/........)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://your-site.com)
+[![Twitter/X](https://img.shields.io/badge/@yourhandle-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/yourname.bsky.social)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/........)
 
 </div>
 
 <br/>
 
 ```text
-If you stare into the code long enough,
-the code stares back... and sometimes it winks 😏
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Keep shipping. Stay curious. ✨
