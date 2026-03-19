@@ -1,5 +1,5 @@
 <!-- 
-  GitHub Profile README – Sidharth 2026 edition
+  GitHub Profile README – Sidharth Kardam 2026 edition
   Clean, melodic, modern developer vibe
 -->
 
