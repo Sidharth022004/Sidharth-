@@ -1,6 +1,6 @@
 <!-- 
   Profile README for 2026 – clean, dynamic, professional yet fun
-  Replace YOUR_USERNAME everywhere + customize content
+  Replace Sidharth everywhere + customize content
 -->
 
 <div align="center">
