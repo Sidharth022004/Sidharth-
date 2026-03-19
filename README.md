@@ -1,104 +1,93 @@
 <!-- 
-  Profile README for 2026 – clean, dynamic, professional yet fun
-  Replace Sidharth everywhere + customize content
+  GitHub Profile README – Sidharth 2026 edition
+  Clean, melodic, modern developer vibe
 -->
 
 <div align="center">
-  <!-- Optional capsule header – very popular in 2025–2026 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I'm%20YOUR_NAME&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=240&section=header&text=Hey!%20I'm%20Sidharth%20Kardam&fontSize=52&fontAlignY=65&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Melodic%20Llama%20Energy&descAlign=62&descAlignY=85" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+YOUR_NAME;Full-Stack+%2F+AI+%2F+Web3+Developer;Crafting+scalable+experiences+%F0%9F%9A%80;Open+to+collabs+%26+ideas+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&pause=1200&color=00E0FF&center=true&vCenter=true&width=680&lines=Hello!+I'm+Sidharth;Building+beautiful+&+performant+web+experiences;Frontend+%2F+Full-Stack+%2F+Creative+Dev;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing animation" />
 </div>
 
 <br/>
 
-<!-- Quick status badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Currently-Focused%20on%20AI%20Agents-blueviolet?style=flat-square&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20for%20opportunities-success?style=flat-square&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Timezone-UTC%20%2B%202-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building%20%E2%9A%A1-blueviolet?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Modern%20Web%20%26%20UI%2FUX-00C4B4?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Timezone-UTC%20%2B%205.5-orange?style=flat-square" />
 </div>
 
 <br/>
 
-<!-- Snake animation – super popular -->
+<!-- Contribution snake – replace YOUR_GITHUB_USERNAME -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
-## 🚀 About Me in 3 lines
+## 🌟 About Me
 
-- 🔭 Currently building **agentic AI workflows** & **real-time collaborative tools**
-- 🌱 Deep diving into **Rust + WASM**, **LLM optimization**, **edge computing**
-- ⚡ Fun fact: I once turned coffee into 3k lines of code before sunrise ☕→💻
+Creative full-stack developer with a passion for crafting **melodic**, intuitive, and high-performance digital experiences.  
+I enjoy turning complex ideas into clean, maintainable code while keeping the user at the center.
+
+- 🔭 Currently exploring **React ecosystems**, **animations**, **AI-assisted design tools** & **creative coding**
+- 🌱 Learning & experimenting with **TypeScript mastery**, **Three.js / motion**, **Rust/WASM** side projects
+- ⚡ Fun fact: My username is half music, half animal — because code should feel both rhythmic and wild 🦙🎶
 
 <br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,remix,nodejs,nestjs,python,fastapi,rust,go,tailwind,postgres,mongodb,redis,kafka,docker,kubernetes,aws,gcp,vercel,linux,neovim,vscode,git,github,figma" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=prisma,supabase,firebase,graphql,zig,elixir,htmx,threejs,webgpu,webassembly" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,css,html,nodejs,express,postgres,mongodb,git,github,figma,threejs,framer,vite,vercel,netlify" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=prisma,supabase,firebase,graphql,docker,linux,vscode,neovim" />
 </div>
 
 <br/>
 
-## 📊 GitHub Stats (2026 vibe)
+## 📈 GitHub Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css" />
 </div>
 
 <br/>
 
-## 🎧 Currently Vibing To (Spotify)
-
-<!-- Optional: add one of these services -->
-<!-- https://github.com/novatorem/novatorem     OR    https://github.com/kittinan/spotify-github-profile -->
-<!-- Example using novatorem style (replace YOUR_SPOTIFY_USERNAME) -->
-
-<!-- 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=5&unique=true" alt="Spotify recently played" />
--->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&margin-w=15&column=7" alt="Trophies" />
+</div>
 
 <br/>
 
-## 🌐 Let's Connect
+## 🌐 Connect with Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://your-site.com)
-[![Twitter/X](https://img.shields.io/badge/@yourhandle-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/yourname.bsky.social)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/........)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://melodic-llama-cdf5e6.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharth-kardam) <!-- adjust if different -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharth@example.com) <!-- replace with real email if public -->
 
 </div>
 
 <br/>
 
 ```text
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"Make it work. Make it right. Make it fast. Then make it sing." 🦙✨
 
-Keep shipping. Stay curious. ✨
+Always open to interesting ideas, collabs, and good playlists.
