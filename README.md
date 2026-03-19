@@ -112,7 +112,7 @@ BCA in Computer Science
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sidharth-s-personal-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](melodic-llama-cdf5e6.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-6295222b9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sid240711@gmail.com)
 [![Mobile](https://img.shields.io/badge/Mobile-9870220973-00C4B4?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919870220973)
